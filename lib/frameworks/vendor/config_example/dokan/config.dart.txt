@@ -1,0 +1,17 @@
+export 'config/index.dart';
+
+/// Server config demo for WooCommerce
+const serverConfig = {
+  "type": "dokan", // type: dokan or wcfm
+  "url": "https://dokan.mstore.io",
+
+  /// document: https://docs.inspireui.com/fluxstore/woocommerce-setup/
+  "consumerKey": "",
+  "consumerSecret": "",
+
+  /// Your website woocommerce. You can remove this line if it same url
+  "blog": "https://mstore.io",
+
+    /// remove to use as native screen
+  "forgetPassword": "https://mstore.io/wp-login.php?action=lostpassword"
+};

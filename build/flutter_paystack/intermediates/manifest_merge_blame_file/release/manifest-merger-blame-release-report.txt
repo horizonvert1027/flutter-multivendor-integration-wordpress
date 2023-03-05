@@ -1,0 +1,21 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="co.paystack.flutterpaystack" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+7        android:targetSdkVersion="21" />
+7-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+8
+9    <application>
+9-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:4:5-8:19
+10        <activity
+10-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:5:9-7:54
+11            android:name="co.paystack.flutterpaystack.AuthActivity"
+11-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:6:13-41
+12            android:theme="@style/Paystack.Dialog" />
+12-->C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:7:13-51
+13    </application>
+14
+15</manifest>

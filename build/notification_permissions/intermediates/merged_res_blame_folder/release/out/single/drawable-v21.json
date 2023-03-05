@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "com.vanethos.notification_permissions-merged_res-10:/drawable-v21/notification_action_background.xml",
+        "source": "com.vanethos.notification_permissions-core-1.6.0-1:/drawable-v21/notification_action_background.xml"
+    }
+]

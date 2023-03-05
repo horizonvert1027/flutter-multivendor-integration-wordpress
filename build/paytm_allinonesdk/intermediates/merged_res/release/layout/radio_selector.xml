@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="16dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_radio_label"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/verify_mobile_number" />
+
+    <CheckBox
+        android:id="@+id/cb_send_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/send_otp" />
+
+    <CheckBox
+        android:id="@+id/cb_do_not_send_otp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/do_not_send_otp" />
+
+    <Button
+        android:id="@+id/rh_bt_submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:background="@color/active_state_submit_button"
+        android:text="@string/submit"
+        android:textColor="@color/white" />
+
+</LinearLayout>

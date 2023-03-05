@@ -1,0 +1,17 @@
+com.fluttercandies.photo_manager-jetified-glide-4.14.2-0 C:\Users\Admin\.gradle\caches\transforms-3\0794d82bd67e2e1e1a4549594097b805\transformed\jetified-glide-4.14.2\res
+com.fluttercandies.photo_manager-jetified-window-java-1.0.0-beta04-1 C:\Users\Admin\.gradle\caches\transforms-3\1cc0258bfe59698a235b14da598791e7\transformed\jetified-window-java-1.0.0-beta04\res
+com.fluttercandies.photo_manager-fragment-1.3.6-2 C:\Users\Admin\.gradle\caches\transforms-3\430e6bfb5d5a5368cc6f01ba85874fea\transformed\fragment-1.3.6\res
+com.fluttercandies.photo_manager-lifecycle-viewmodel-2.3.1-3 C:\Users\Admin\.gradle\caches\transforms-3\5b68d459ba4e2dad954a9efc890d0dc5\transformed\lifecycle-viewmodel-2.3.1\res
+com.fluttercandies.photo_manager-jetified-savedstate-1.1.0-4 C:\Users\Admin\.gradle\caches\transforms-3\7d88d2e047fbc65c1866624d4e5a8f38\transformed\jetified-savedstate-1.1.0\res
+com.fluttercandies.photo_manager-core-1.6.0-5 C:\Users\Admin\.gradle\caches\transforms-3\af1e6f81a3ce95d4e997d697019cb8cd\transformed\core-1.6.0\res
+com.fluttercandies.photo_manager-jetified-window-1.0.0-beta04-6 C:\Users\Admin\.gradle\caches\transforms-3\b94b2f94a3c3a147f74ee6b6b87af3a0\transformed\jetified-window-1.0.0-beta04\res
+com.fluttercandies.photo_manager-lifecycle-runtime-2.3.1-7 C:\Users\Admin\.gradle\caches\transforms-3\e8c6351c03e91f14fb944ab484676e0c\transformed\lifecycle-runtime-2.3.1\res
+com.fluttercandies.photo_manager-jetified-annotation-experimental-1.1.0-8 C:\Users\Admin\.gradle\caches\transforms-3\f166291a00c286ffcedce5652110fa41\transformed\jetified-annotation-experimental-1.1.0\res
+com.fluttercandies.photo_manager-main-9 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\photo_manager-2.5.2\android\src\main\res
+com.fluttercandies.photo_manager-release-10 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\photo_manager-2.5.2\android\src\release\res
+com.fluttercandies.photo_manager-pngs-11 E:\workspace\hector\multivendor\build\photo_manager\generated\res\pngs\release
+com.fluttercandies.photo_manager-resValues-12 E:\workspace\hector\multivendor\build\photo_manager\generated\res\resValues\release
+com.fluttercandies.photo_manager-rs-13 E:\workspace\hector\multivendor\build\photo_manager\generated\res\rs\release
+com.fluttercandies.photo_manager-mergeReleaseResources-14 E:\workspace\hector\multivendor\build\photo_manager\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.fluttercandies.photo_manager-mergeReleaseResources-15 E:\workspace\hector\multivendor\build\photo_manager\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.fluttercandies.photo_manager-merged_res-16 E:\workspace\hector\multivendor\build\photo_manager\intermediates\merged_res\release

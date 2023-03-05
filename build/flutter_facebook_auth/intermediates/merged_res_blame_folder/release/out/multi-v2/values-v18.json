@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "app.meedu.flutter_facebook_auth-merged_res-22:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\984e44f6b4c5498e3c22bc2ffef5d907\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "app.meedu.flutter_facebook_auth-mergeReleaseResources-20:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\984e44f6b4c5498e3c22bc2ffef5d907\\transformed\\appcompat-1.1.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

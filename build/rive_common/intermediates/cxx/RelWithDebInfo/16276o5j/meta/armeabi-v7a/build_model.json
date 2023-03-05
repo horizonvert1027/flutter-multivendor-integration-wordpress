@@ -1,0 +1,167 @@
+{
+  "abi": "ARMEABI_V7A",
+  "info": {
+    "abi": "ARMEABI_V7A",
+    "bitness": 32,
+    "deprecated": false,
+    "default": true
+  },
+  "cxxBuildFolder": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\.cxx\\RelWithDebInfo\\16276o5j\\armeabi-v7a",
+  "soFolder": "E:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cxx\\RelWithDebInfo\\16276o5j\\obj\\armeabi-v7a",
+  "soRepublishFolder": "E:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cmake\\release\\obj\\armeabi-v7a",
+  "abiPlatformVersion": 19,
+  "cmake": {
+    "effectiveConfiguration": {
+      "inheritEnvironments": [],
+      "variables": []
+    }
+  },
+  "variant": {
+    "buildSystemArgumentList": [],
+    "cFlagsList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": [],
+    "implicitBuildTargetSet": [],
+    "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
+    "module": {
+      "cxxFolder": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\.cxx",
+      "intermediatesBaseFolder": "E:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates",
+      "intermediatesFolder": "E:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cxx",
+      "gradleModulePathName": ":rive_common",
+      "moduleRootFolder": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android",
+      "moduleBuildFile": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\build.gradle",
+      "makeFile": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "ndkFolder": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393",
+      "ndkVersion": "25.1.8937393",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultStl": "LIBCXX_STATIC",
+      "ndkMetaPlatforms": {
+        "min": 19,
+        "max": 33,
+        "aliases": {
+          "20": 19,
+          "25": 24,
+          "J": 16,
+          "J-MR1": 17,
+          "J-MR2": 18,
+          "K": 19,
+          "L": 21,
+          "L-MR1": 22,
+          "M": 23,
+          "N": 24,
+          "N-MR1": 24,
+          "O": 26,
+          "O-MR1": 27,
+          "P": 28,
+          "Q": 29,
+          "R": 30,
+          "S": 31,
+          "Sv2": 32,
+          "Tiramisu": 33
+        }
+      },
+      "ndkMetaAbiList": [
+        {
+          "abi": "ARMEABI_V7A",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "ARM64_V8A",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86",
+          "bitness": 32,
+          "deprecated": false,
+          "default": true
+        },
+        {
+          "abi": "X86_64",
+          "bitness": 64,
+          "deprecated": false,
+          "default": true
+        }
+      ],
+      "cmakeToolchainFile": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+      "cmake": {
+        "isValidCmakeAvailable": true,
+        "cmakeExe": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\cmake.exe",
+        "minimumCmakeVersion": "3.18.1"
+      },
+      "stlSharedObjectMap": {
+        "LIBCXX_SHARED": {
+          "ARMEABI_V7A": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\arm-linux-androideabi\\libc++_shared.so",
+          "ARM64_V8A": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\aarch64-linux-android\\libc++_shared.so",
+          "X86": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\i686-linux-android\\libc++_shared.so",
+          "X86_64": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\toolchains\\llvm\\prebuilt\\windows-x86_64\\sysroot\\usr\\lib\\x86_64-linux-android\\libc++_shared.so"
+        },
+        "LIBCXX_STATIC": {},
+        "NONE": {},
+        "SYSTEM": {}
+      },
+      "project": {
+        "rootBuildGradleFolder": "E:\\workspace\\hector\\multivendor\\android",
+        "sdkFolder": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk",
+        "isBuildOnlyTargetAbiEnabled": true,
+        "isCmakeBuildCohabitationEnabled": false,
+        "isPrefabEnabled": false
+      },
+      "outputOptions": [],
+      "ninjaExe": "C:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe"
+    },
+    "prefabClassPaths": [],
+    "prefabPackages": [],
+    "prefabPackageConfigurations": [],
+    "stlType": "c++_static",
+    "optimizationTag": "RelWithDebInfo"
+  },
+  "buildSettings": {
+    "environmentVariables": []
+  },
+  "prefabFolder": "C:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\.cxx\\RelWithDebInfo\\16276o5j\\prefab\\armeabi-v7a",
+  "isActiveAbi": true,
+  "fullConfigurationHash": "16276o5j402k2i3u74o316m223j384e4p1a6o4qn5s54g6p1g2k1g4847732z",
+  "configurationArguments": [
+    "-HC:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android",
+    "-DCMAKE_SYSTEM_NAME\u003dAndroid",
+    "-DCMAKE_EXPORT_COMPILE_COMMANDS\u003dON",
+    "-DCMAKE_SYSTEM_VERSION\u003d19",
+    "-DANDROID_PLATFORM\u003dandroid-19",
+    "-DANDROID_ABI\u003darmeabi-v7a",
+    "-DCMAKE_ANDROID_ARCH_ABI\u003darmeabi-v7a",
+    "-DANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393",
+    "-DCMAKE_ANDROID_NDK\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393",
+    "-DCMAKE_TOOLCHAIN_FILE\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\ndk\\25.1.8937393\\build\\cmake\\android.toolchain.cmake",
+    "-DCMAKE_MAKE_PROGRAM\u003dC:\\Users\\Admin\\AppData\\Local\\Android\\Sdk\\cmake\\3.18.1\\bin\\ninja.exe",
+    "-DCMAKE_LIBRARY_OUTPUT_DIRECTORY\u003dE:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cxx\\RelWithDebInfo\\16276o5j\\obj\\armeabi-v7a",
+    "-DCMAKE_RUNTIME_OUTPUT_DIRECTORY\u003dE:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cxx\\RelWithDebInfo\\16276o5j\\obj\\armeabi-v7a",
+    "-DCMAKE_BUILD_TYPE\u003dRelWithDebInfo",
+    "-BC:\\Users\\Admin\\AppData\\Local\\Pub\\Cache\\hosted\\pub.dev\\rive_common-0.0.2\\android\\.cxx\\RelWithDebInfo\\16276o5j\\armeabi-v7a",
+    "-GNinja"
+  ],
+  "intermediatesParentFolder": "E:\\workspace\\hector\\multivendor\\build\\rive_common\\intermediates\\cxx\\RelWithDebInfo\\16276o5j"
+}

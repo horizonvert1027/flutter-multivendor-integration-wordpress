@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/notification_template_part_chronometer.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/custom_dialog.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/notification_action_tombstone.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/notification_template_icon_group.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/notification_action.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "fr.skyost.rate_my_app-merged_res-11:/layout/notification_template_part_time.xml",
+        "source": "fr.skyost.rate_my_app-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    }
+]

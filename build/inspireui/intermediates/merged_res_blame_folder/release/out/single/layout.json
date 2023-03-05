@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/notification_action_tombstone.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/notification_template_part_chronometer.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/notification_template_icon_group.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/custom_dialog.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/notification_template_part_time.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout/notification_action.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout/notification_action.xml"
+    }
+]

@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:1:1-9:12
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:2:5-42
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:4:5-8:19
+activity#co.paystack.flutterpaystack.AuthActivity
+ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:5:9-7:54
+	android:theme
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:7:13-51
+	android:name
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml:6:13-41
+uses-sdk
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Admin\AppData\Local\Pub\Cache\git\flutter_paystack-ffd342ef628c34076fc66175cea5b2d25e3e8087\android\src\main\AndroidManifest.xml

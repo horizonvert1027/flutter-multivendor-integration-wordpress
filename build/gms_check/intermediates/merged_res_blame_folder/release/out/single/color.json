@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/color/common_google_signin_btn_text_dark.xml",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/color/common_google_signin_btn_text_light.xml",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/color/common_google_signin_btn_tint.xml",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/color/common_google_signin_btn_tint.xml"
+    }
+]

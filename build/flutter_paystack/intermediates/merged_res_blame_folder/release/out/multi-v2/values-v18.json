@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\59730e5cb76b23c620b9be918c1a592a\\transformed\\appcompat-1.2.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "co.paystack.flutterpaystack.flutter_paystack-mergeReleaseResources-19:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\59730e5cb76b23c620b9be918c1a592a\\transformed\\appcompat-1.2.0\\res\\values-v18\\values-v18.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

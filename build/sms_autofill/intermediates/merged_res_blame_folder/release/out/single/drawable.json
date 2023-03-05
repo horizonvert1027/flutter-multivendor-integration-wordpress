@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/notification_icon_background.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/notification_tile_bg.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/notification_bg_low.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_light.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/notification_bg.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/drawable/common_google_signin_btn_text_dark.xml"
+    }
+]

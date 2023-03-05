@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_btn_colored_text_material.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_edittext.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_color_highlight_material.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_seek_thumb.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_switch_track.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_default.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_spinner.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v23/abc_tint_btn_checkable.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/color-v23/abc_tint_btn_checkable.xml"
+    }
+]

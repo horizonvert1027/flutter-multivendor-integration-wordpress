@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/notification_action_tombstone.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/notification_template_icon_group.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/custom_dialog.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/notification_template_part_time.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/notification_template_part_chronometer.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/layout/notification_action.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-core-1.6.0-2:/layout/notification_action.xml"
+    }
+]

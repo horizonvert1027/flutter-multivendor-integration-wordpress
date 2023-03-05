@@ -1,0 +1,206 @@
+-keep class android.app.Application { <init>(); }
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+-keep class androidx.room.MultiInstanceInvalidationService { <init>(); }
+-keep class androidx.startup.InitializationProvider { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.RescheduleReceiver { <init>(); }
+-keep class androidx.work.impl.background.systemalarm.SystemAlarmService { <init>(); }
+-keep class androidx.work.impl.background.systemjob.SystemJobService { <init>(); }
+-keep class androidx.work.impl.diagnostics.DiagnosticsReceiver { <init>(); }
+-keep class androidx.work.impl.foreground.SystemForegroundService { <init>(); }
+-keep class androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver { <init>(); }
+-keep class co.paystack.flutterpaystack.AuthActivity { <init>(); }
+-keep class com.dexterous.flutterlocalnotifications.ActionBroadcastReceiver { <init>(); }
+-keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver { <init>(); }
+-keep class com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver { <init>(); }
+-keep class com.facebook.AuthenticationTokenManager$CurrentAuthenticationTokenChangedBroadcastReceiver { <init>(); }
+-keep class com.facebook.CurrentAccessTokenExpirationBroadcastReceiver { <init>(); }
+-keep class com.facebook.CustomTabActivity { <init>(); }
+-keep class com.facebook.CustomTabMainActivity { <init>(); }
+-keep class com.facebook.FacebookActivity { <init>(); }
+-keep class com.facebook.internal.FacebookInitProvider { <init>(); }
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+-keep class com.google.android.gms.ads.AdActivity { <init>(); }
+-keep class com.google.android.gms.ads.AdService { <init>(); }
+-keep class com.google.android.gms.ads.MobileAdsInitProvider { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+-keep class com.google.android.play.core.assetpacks.AssetPackExtractionService { <init>(); }
+-keep class com.google.android.play.core.common.PlayCoreDialogWrapperActivity { <init>(); }
+-keep class com.google.android.play.core.missingsplits.PlayCoreMissingSplitsActivity { <init>(); }
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+-keep class com.inspireui.fluxstore.MainActivity { <init>(); }
+-keep class com.journeyapps.barcodescanner.CaptureActivity { <init>(); }
+-keep class com.lyokone.location.FlutterLocationService { <init>(); }
+-keep class com.onesignal.BootUpReceiver { <init>(); }
+-keep class com.onesignal.FCMBroadcastReceiver { <init>(); }
+-keep class com.onesignal.FCMIntentJobService { <init>(); }
+-keep class com.onesignal.FCMIntentService { <init>(); }
+-keep class com.onesignal.HmsMessageServiceOneSignal { <init>(); }
+-keep class com.onesignal.NotificationDismissReceiver { <init>(); }
+-keep class com.onesignal.NotificationOpenedActivityHMS { <init>(); }
+-keep class com.onesignal.NotificationOpenedReceiver { <init>(); }
+-keep class com.onesignal.NotificationOpenedReceiverAndroid22AndOlder { <init>(); }
+-keep class com.onesignal.PermissionsActivity { <init>(); }
+-keep class com.onesignal.SyncJobService { <init>(); }
+-keep class com.onesignal.SyncService { <init>(); }
+-keep class com.onesignal.UpgradeReceiver { <init>(); }
+-keep class com.paytm.pgsdk.AioMatchUserActivity { <init>(); }
+-keep class com.paytm.pgsdk.IntentServicePostNotification { <init>(); }
+-keep class com.paytm.pgsdk.IntentServicePreNotification { <init>(); }
+-keep class com.paytm.pgsdk.PaytmPGActivity { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ActionBroadcastReceiver { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivity { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.ChromeCustomTabsActivitySingleInstance { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivity { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.chrome_custom_tabs.TrustedWebActivitySingleInstance { <init>(); }
+-keep class com.pichillilorenzo.flutter_inappwebview.in_app_browser.InAppBrowserActivity { <init>(); }
+-keep class com.razorpay.CheckoutActivity { <init>(); }
+-keep class com.razorpay.RzpTokenReceiver { <init>(); }
+-keep class easypay.appinvoke.AnalyticsManagerInfoDisplayActivity { <init>(); }
+-keep class easypay.appinvoke.utils.AnalyticsService { <init>(); }
+-keep class easypay.appinvoke.utils.EasyPayConfigDownloader { <init>(); }
+-keep class io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingBackgroundService { <init>(); }
+-keep class io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingInitProvider { <init>(); }
+-keep class io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingReceiver { <init>(); }
+-keep class io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingService { <init>(); }
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+-keep class io.flutter.plugins.share.ShareFileProvider { <init>(); }
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+-keep class android.widget.SearchView { <init>(android.content.Context); }
+
+-keep class android.widget.Space { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.AppCompatImageView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.DialogTitle { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.Toolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.cardview.widget.CardView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.Barrier { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.ConstraintLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.constraintlayout.widget.Guideline { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.coordinatorlayout.widget.CoordinatorLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.core.widget.NestedScrollView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.fragment.app.FragmentContainerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class androidx.recyclerview.widget.RecyclerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.appbar.MaterialToolbar { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.button.MaterialButtonToggleGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.Chip { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.chip.ChipGroup { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.datepicker.MaterialCalendarGridView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.BaselineLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.CheckableImageButton { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuItemView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.internal.NavigationMenuView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.Snackbar$SnackbarLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.snackbar.SnackbarContentLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textfield.TextInputLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.textview.MaterialTextView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ChipTextInputComboView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockFaceView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.ClockHandView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.google.android.material.timepicker.TimePickerView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.journeyapps.barcodescanner.BarcodeView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.journeyapps.barcodescanner.DecoratedBarcodeView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.journeyapps.barcodescanner.ViewfinderView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.pichillilorenzo.flutter_inappwebview.in_app_webview.InAppWebView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.pichillilorenzo.flutter_inappwebview.pull_to_refresh.PullToRefreshLayout { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class com.razorpay.CircularProgressView { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keep class easypay.appinvoke.widget.OtpEditText { <init>(android.content.Context, android.util.AttributeSet); }
+
+-keepclassmembers class * { *** closeButtonClicked(android.view.MenuItem); }
+
+-keepclassmembers class * { *** goBackButtonClicked(android.view.MenuItem); }
+
+-keepclassmembers class * { *** goForwardButtonClicked(android.view.MenuItem); }
+
+-keepclassmembers class * { *** reloadButtonClicked(android.view.MenuItem); }
+
+-keepclassmembers class * { *** shareButtonClicked(android.view.MenuItem); }
+

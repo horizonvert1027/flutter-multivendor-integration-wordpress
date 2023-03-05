@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/fast_out_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/mtrl_linear.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/interpolator/mtrl_linear.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    }
+]

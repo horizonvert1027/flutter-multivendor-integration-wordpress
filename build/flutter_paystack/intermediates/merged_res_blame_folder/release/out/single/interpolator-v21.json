@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator-v21/mtrl_linear_out_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/interpolator-v21/mtrl_linear_out_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator-v21/mtrl_fast_out_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/interpolator-v21/mtrl_fast_out_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/interpolator-v21/mtrl_fast_out_linear_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/interpolator-v21/mtrl_fast_out_linear_in.xml"
+    }
+]

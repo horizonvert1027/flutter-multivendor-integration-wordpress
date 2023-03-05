@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-anydpi-v21/ic_tick_mark.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/drawable-anydpi-v21/ic_tick_mark.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-anydpi-v21/ic_alert.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/drawable-anydpi-v21/ic_alert.xml"
+    }
+]

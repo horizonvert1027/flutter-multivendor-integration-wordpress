@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.paytm.allinonesdk.paytm_allinonesdk-mergeReleaseResources-23:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\ad344dad1467c534f29b41d8b199263b\\transformed\\appcompat-1.3.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\ad344dad1467c534f29b41d8b199263b\\transformed\\appcompat-1.3.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

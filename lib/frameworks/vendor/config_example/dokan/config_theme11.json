@@ -1,0 +1,87 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 25.0,
+      "padding": 30.0,
+      "height": 0.2,
+      "title": "Shop by Categories",
+      "isSafeArea": true
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "items": [
+        {
+          "category": 25
+        },
+        {
+          "category": 26
+        },
+        {
+          "category": 27
+        },
+        {
+          "image": "assets/images/hci_restaurant.jpg",
+          "name": "Restaurants",
+          "description": "Top-rated eats"
+        },
+        {
+          "image": "assets/images/hci_adventures.jpg",
+          "name": "Adventures",
+          "description": "Multi-day trips"
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Collections"
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

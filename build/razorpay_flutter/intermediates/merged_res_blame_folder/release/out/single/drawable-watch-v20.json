@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-auth-17.0.0-6:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-auth-17.0.0-6:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-auth-17.0.0-6:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    }
+]

@@ -1,0 +1,15 @@
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-auth-20.4.1-0 C:\Users\Admin\.gradle\caches\transforms-3\03e498f8d3237ba762fd191682b8cab7\transformed\jetified-play-services-auth-20.4.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-java-1.0.0-beta04-1 C:\Users\Admin\.gradle\caches\transforms-3\1cc0258bfe59698a235b14da598791e7\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-base-18.0.1-2 C:\Users\Admin\.gradle\caches\transforms-3\4e3dfb994b5c25fc10d367ca318ccfc7\transformed\jetified-play-services-base-18.0.1\res
+io.flutter.plugins.googlesignin.google_sign_in_android-core-1.6.0-3 C:\Users\Admin\.gradle\caches\transforms-3\af1e6f81a3ce95d4e997d697019cb8cd\transformed\core-1.6.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-window-1.0.0-beta04-4 C:\Users\Admin\.gradle\caches\transforms-3\b94b2f94a3c3a147f74ee6b6b87af3a0\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-play-services-basement-18.1.0-5 C:\Users\Admin\.gradle\caches\transforms-3\d5f0974639bceb0c5a2c2f4ea058154a\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-jetified-annotation-experimental-1.1.0-6 C:\Users\Admin\.gradle\caches\transforms-3\f166291a00c286ffcedce5652110fa41\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.googlesignin.google_sign_in_android-main-7 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.5\android\src\main\res
+io.flutter.plugins.googlesignin.google_sign_in_android-release-8 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\google_sign_in_android-6.1.5\android\src\release\res
+io.flutter.plugins.googlesignin.google_sign_in_android-pngs-9 E:\workspace\hector\multivendor\build\google_sign_in_android\generated\res\pngs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-resValues-10 E:\workspace\hector\multivendor\build\google_sign_in_android\generated\res\resValues\release
+io.flutter.plugins.googlesignin.google_sign_in_android-rs-11 E:\workspace\hector\multivendor\build\google_sign_in_android\generated\res\rs\release
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-12 E:\workspace\hector\multivendor\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-mergeReleaseResources-13 E:\workspace\hector\multivendor\build\google_sign_in_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.googlesignin.google_sign_in_android-merged_res-14 E:\workspace\hector\multivendor\build\google_sign_in_android\intermediates\merged_res\release

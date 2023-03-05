@@ -1,0 +1,106 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "showBackground": true,
+      "upHeight": 300.0,
+      "padding": 20.0,
+      "radius": 20.0,
+      "fontSize": 26.0,
+      "items": [
+        {
+          "category": 24,
+          "background": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924791-0a4fcc00-bddb-11e9-91e1-63e3018f6af6.png"
+        },
+        {
+          "category": 25,
+          "background": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924793-0ae86280-bddb-11e9-860e-737e42831e6f.png"
+        },
+        {
+          "category": 26,
+          "background": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924792-0ae86280-bddb-11e9-8532-c9b0cffea5ae.png"
+        },
+        {
+          "category": 27,
+          "background": "https://user-images.githubusercontent.com/1459805/62925389-741ca580-bddc-11e9-85ba-8ba380600883.png",
+          "image": "https://user-images.githubusercontent.com/1459805/62924794-0b80f900-bddb-11e9-9bf0-3cf416c46332.png"
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 28,
+          "image": "https://user-images.githubusercontent.com/1459805/62924800-0cb22600-bddb-11e9-8aa0-44782a5cabf2.png",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    },
+    {
+      "layout": "bannerImage",
+      "items": [
+        {
+          "category": 29,
+          "image": "https://user-images.githubusercontent.com/1459805/62924796-0b80f900-bddb-11e9-98a6-8bc87bd4caaa.png",
+          "padding": 15.0,
+          "radius": 20.0
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "menu",
+    "name": "Our Products"
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

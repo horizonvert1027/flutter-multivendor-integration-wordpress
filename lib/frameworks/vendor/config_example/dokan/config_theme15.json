@@ -1,0 +1,138 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 22.0,
+      "height": 0.2,
+      "title": "Color Icons Demo",
+      "isSafeArea": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 9.0,
+      "columns": 4,
+      "shadow": 0.0,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 491,
+          "image": "assets/icons/categories/i_package.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 313,
+          "image": "assets/icons/categories/i_shopping.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 500,
+          "image": "assets/icons/categories/i_snow.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 512,
+          "image": "assets/icons/categories/i_truck.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 501,
+          "image": "assets/icons/categories/i-air.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 276,
+          "image": "assets/icons/categories/i_instagram.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 538,
+          "image": "assets/icons/categories/i_download.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 536,
+          "image": "assets/icons/categories/i_briefcase.png",
+          "colors": [
+            "#5f27cd",
+            "#5f27cd"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Collections",
+      "layout": "staggered",
+      "limit": 20,
+      "category": 313
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

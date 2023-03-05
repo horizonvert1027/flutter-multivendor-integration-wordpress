@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/drawable/notification_icon_background.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/drawable/notification_tile_bg.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/drawable/notification_bg.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/drawable/notification_bg_low.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/drawable/notification_bg_low.xml"
+    }
+]

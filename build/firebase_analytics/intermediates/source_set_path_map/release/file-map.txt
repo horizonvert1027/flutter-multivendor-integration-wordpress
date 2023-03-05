@@ -1,0 +1,15 @@
+io.flutter.plugins.firebase.analytics.firebase_analytics-jetified-window-java-1.0.0-beta04-0 C:\Users\Admin\.gradle\caches\transforms-3\1cc0258bfe59698a235b14da598791e7\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-jetified-firebase-common-20.2.0-1 C:\Users\Admin\.gradle\caches\transforms-3\9044ddd2fa7ff2a47170ec6b0322e6b4\transformed\jetified-firebase-common-20.2.0\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-core-1.6.0-2 C:\Users\Admin\.gradle\caches\transforms-3\af1e6f81a3ce95d4e997d697019cb8cd\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-jetified-window-1.0.0-beta04-3 C:\Users\Admin\.gradle\caches\transforms-3\b94b2f94a3c3a147f74ee6b6b87af3a0\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-jetified-play-services-basement-18.1.0-4 C:\Users\Admin\.gradle\caches\transforms-3\d5f0974639bceb0c5a2c2f4ea058154a\transformed\jetified-play-services-basement-18.1.0\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-jetified-annotation-experimental-1.1.0-5 C:\Users\Admin\.gradle\caches\transforms-3\f166291a00c286ffcedce5652110fa41\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-main-6 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_analytics-10.1.0\android\src\main\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-release-7 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_analytics-10.1.0\android\src\release\res
+io.flutter.plugins.firebase.analytics.firebase_analytics-pngs-8 E:\workspace\hector\multivendor\build\firebase_analytics\generated\res\pngs\release
+io.flutter.plugins.firebase.analytics.firebase_analytics-resValues-9 E:\workspace\hector\multivendor\build\firebase_analytics\generated\res\resValues\release
+io.flutter.plugins.firebase.analytics.firebase_analytics-rs-10 E:\workspace\hector\multivendor\build\firebase_analytics\generated\res\rs\release
+io.flutter.plugins.firebase.analytics.firebase_analytics-mergeReleaseResources-11 E:\workspace\hector\multivendor\build\firebase_analytics\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.analytics.firebase_analytics-mergeReleaseResources-12 E:\workspace\hector\multivendor\build\firebase_analytics\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.analytics.firebase_analytics-merged_res-13 E:\workspace\hector\multivendor\build\firebase_analytics\intermediates\merged_res\release
+io.flutter.plugins.firebase.analytics.firebase_analytics-packaged_res-14 E:\workspace\hector\multivendor\build\firebase_core\intermediates\packaged_res\release

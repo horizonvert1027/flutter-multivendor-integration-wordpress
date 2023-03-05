@@ -1,0 +1,42 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--android:background="@drawable/layout_progress_bg"-->
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:contentDescription="TODO" android:gravity="center_horizontal"
+        android:padding="8dp"
+        android:src="@drawable/paytm_assist"
+        android:textSize="20sp"
+        android:visibility="gone"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:padding="8dp"
+        android:text="We're processing your request"
+        android:textColor="#111111"
+        android:textSize="20sp"
+        android:visibility="gone"/>
+
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="sans-serif-light"
+        android:gravity="center_horizontal"
+        android:padding="8dp"
+        android:text="This may take some time depending on your connection speed "
+        android:textColor="#111111"
+        android:textSize="18sp"
+        android:visibility="gone" />
+
+</LinearLayout>

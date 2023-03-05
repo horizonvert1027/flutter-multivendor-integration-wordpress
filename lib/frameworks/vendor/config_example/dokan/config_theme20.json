@@ -1,0 +1,106 @@
+{
+  "Background": {
+    "height": 0.3,
+    "color": "#FFFFFF",
+    "image": "https://trello-attachments.s3.amazonaws.com/5d70b58f08cb0676848fc5e5/1200x675/52fbab8f4ae9e62a7aa3a0d86a0829e6/2792283.jpg"
+  },
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 23.0,
+      "height": 0.13,
+      "padding": 30.0,
+      "rotate": [
+        "WooCommerce",
+        "Magento",
+        "Opencart"
+      ],
+      "type": "fade"
+    },
+    {
+      "layout": "header_search",
+      "text": "Search for a product"
+    },
+    {
+      "layout": "category",
+      "type": "image",
+      "wrap": false,
+      "showText": true,
+      "items": [
+        {
+          "category": 313,
+          "image": "https://image.shutterstock.com/image-photo/two-shiny-fresh-roasted-coffee-260nw-562127497.jpg"
+        },
+        {
+          "category": 313,
+          "image": "https://image.shutterstock.com/image-photo/cup-coffee-260nw-507740677.jpg"
+        },
+        {
+          "category": 313,
+          "image": "https://image.shutterstock.com/image-vector/coffee-beans-realistic-set-showing-260nw-637947457.jpg"
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/coffee-cup-assortment-top-view-260nw-159200423.jpg",
+          "category": 27
+        },
+        {
+          "image": "https://image.shutterstock.com/image-photo/cappuccino-latte-frothy-foam-blue-260nw-531118738.jpg",
+          "category": 28
+        }
+      ]
+    }
+  ],
+  "VerticalLayout": {
+    "layout": "list",
+    "name": "Recent Collections"
+  },
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

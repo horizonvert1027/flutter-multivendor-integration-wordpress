@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/anim-v21/mtrl_bottom_sheet_slide_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/anim-v21/mtrl_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/anim-v21/mtrl_bottom_sheet_slide_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/anim-v21/mtrl_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/anim-v21/fragment_fast_out_extra_slow_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-fragment-1.2.5-3:/anim-v21/fragment_fast_out_extra_slow_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

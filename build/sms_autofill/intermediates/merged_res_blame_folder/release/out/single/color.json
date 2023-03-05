@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/color/common_google_signin_btn_text_dark.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/color/common_google_signin_btn_text_light.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/color/common_google_signin_btn_tint.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-base-17.5.0-6:/color/common_google_signin_btn_tint.xml"
+    }
+]

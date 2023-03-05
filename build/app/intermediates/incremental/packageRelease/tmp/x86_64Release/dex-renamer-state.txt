@@ -1,0 +1,10 @@
+#Sun Mar 05 16:31:57 GMT+01:00 2023
+base.2=E\:\\workspace\\hector\\multivendor\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes3.dex
+path.2=classes3.dex
+base.1=E\:\\workspace\\hector\\multivendor\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
+path.1=classes2.dex
+base.0=E\:\\workspace\\hector\\multivendor\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

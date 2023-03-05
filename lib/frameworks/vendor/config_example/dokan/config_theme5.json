@@ -1,0 +1,129 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 22.0,
+      "title": "Our Biggest Hits",
+      "isSafeArea": true
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 50.0,
+      "noBackground": true,
+      "columns": 4,
+      "shadow": 0.0,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 491,
+          "image": "assets/icons/categories/ic_home.png",
+          "colors": [
+            "#5f27cd"
+          ]
+        },
+        {
+          "category": 313,
+          "image": "assets/icons/categories/ic_picture.png",
+          "colors": [
+            "#ff6b6b"
+          ]
+        },
+        {
+          "category": 500,
+          "image": "assets/icons/categories/ic_glasses.png",
+          "colors": [
+            "#0abde3"
+          ]
+        },
+        {
+          "category": 512,
+          "image": "assets/icons/categories/ic_couch.png",
+          "colors": [
+            "#ee5253"
+          ]
+        },
+        {
+          "category": 501,
+          "image": "assets/icons/categories/ic_flower.png",
+          "colors": [
+            "#ff9f43"
+          ]
+        },
+        {
+          "category": 276,
+          "image": "assets/icons/categories/ic_ballon.png",
+          "colors": [
+            "#01a3a4"
+          ]
+        },
+        {
+          "category": 538,
+          "image": "assets/icons/categories/ic_broom.png",
+          "colors": [
+            "#341f97"
+          ]
+        },
+        {
+          "category": 536,
+          "image": "assets/icons/categories/ic_clock.png",
+          "colors": [
+            "#222f3e"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Collections",
+      "layout": "staggered",
+      "limit": 20
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

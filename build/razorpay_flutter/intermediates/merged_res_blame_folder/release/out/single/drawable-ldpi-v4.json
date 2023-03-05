@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-ldpi-v4/ic_tick_mark.png",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/drawable-ldpi-v4/ic_tick_mark.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-ldpi-v4/ic_alert.png",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/drawable-ldpi-v4/ic_alert.png"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/drawable-ldpi-v4/rzp_logo.png",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/drawable-ldpi-v4/rzp_logo.png"
+    }
+]

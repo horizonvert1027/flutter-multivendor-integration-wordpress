@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/fast_out_slow_in.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-appcompat-1.3.1-13:/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    }
+]

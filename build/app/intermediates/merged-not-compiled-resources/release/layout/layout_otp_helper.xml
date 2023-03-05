@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/otpHelper"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@drawable/assist_background">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_hide_assist"
+        android:layout_width="@dimen/dimen_0dp"
+        android:layout_height="40dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/img_paytm_assist_banner"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/dimen_12dp"
+            android:layout_marginStart="@dimen/dimen_20dp"
+            android:layout_marginEnd="@dimen/dimen_20dp"
+            app:srcCompat="@drawable/ic_paytm_assist_revamp"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:id="@+id/img_show_assist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="@dimen/dimen_16dp"
+            android:layout_marginRight="@dimen/dimen_16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_arrow_up_24px" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:id="@+id/cl_show_assist"
+        android:layout_width="@dimen/dimen_0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:visibility="visible">
+        <ImageView
+            android:id="@+id/img_hide_assist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:layout_marginEnd="@dimen/dimen_16dp"
+            android:layout_marginRight="@dimen/dimen_16dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            app:srcCompat="@drawable/ic_arrow_down_24px" />
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            android:contentDescription="@string/assist_logo"
+            app:layout_constraintBottom_toTopOf="@+id/viewSkyBlue"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_goneMarginTop="44dp"
+            app:srcCompat="@drawable/ic_paytm_assist_revamp" />
+
+        <TextView
+            android:id="@+id/tv_detection_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dimen_16dp"
+            android:layout_marginLeft="@dimen/dimen_16dp"
+            android:layout_marginTop="@dimen/dimen_8dp"
+            android:layout_marginEnd="@dimen/dimen_8dp"
+            android:layout_marginRight="@dimen/dimen_8dp"
+            android:lineSpacingExtra="@dimen/dimen_4sp"
+            android:text="@string/waiting_for_otp_label"
+            android:textColor="@color/black_222222"
+            android:textSize="@dimen/dimen_16sp"
+            android:textStyle="bold"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:visibility="visible"/>
+
+        <TextView
+            android:id="@+id/tv_enter_otp_label"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_16dp"
+            android:layout_marginStart="@dimen/dimen_16dp"
+            android:layout_marginLeft="@dimen/dimen_16dp"
+            android:layout_marginTop="60dp"
+            android:text="@string/enter_one_time_password"
+            android:textColor="@color/gray_8ba6c1"
+            android:textSize="@dimen/dimen_12sp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <TextView
+            android:id="@+id/tv_submit_otp_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/dimen_16dp"
+            android:layout_marginTop="@dimen/dimen_16dp"
+            android:letterSpacing="0.04"
+            android:lineSpacingExtra="@dimen/dimen_6sp"
+            android:text="@string/submit_time"
+            android:textColor="@color/black_222222"
+            android:textSize="@dimen/dimen_12sp"
+            android:visibility="gone"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/edit_text_otp"
+            tools:text="Submitting OTP in 5 seconds"
+            tools:visibility="visible" />
+
+        <TextView
+            android:id="@+id/tv_tap_to_pause"
+            android:layout_width="wrap_content"
+            android:layout_height="@dimen/dimen_18dp"
+            android:layout_marginEnd="60dp"
+            android:fontFamily="sans-serif-medium"
+            android:gravity="end"
+            android:letterSpacing="0.04"
+            android:lineSpacingExtra="@dimen/dimen_6sp"
+            android:text="@string/tap_to_pause"
+            android:textColor="@color/blue_00ade6"
+            android:textSize="@dimen/dimen_12sp"
+            android:visibility="gone"
+            app:layout_constraintBottom_toBottomOf="@+id/tv_submit_otp_time"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/tv_submit_otp_time"
+            tools:visibility="visible" />
+
+        <Button
+            android:id="@+id/btn_submit_otp"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/dimen_50dp"
+            android:layout_marginStart="@dimen/dimen_16dp"
+            android:layout_marginEnd="@dimen/dimen_16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_marginTop="@dimen/dimen_16dp"
+            android:background="@drawable/btn_submit_otp"
+            android:gravity="center"
+            android:text="@string/tap_to_submit"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="@dimen/dimen_16sp"
+            android:textStyle="bold"
+            android:visibility="visible"
+            app:layout_constraintTop_toBottomOf="@id/tv_submit_otp_time"
+            app:layout_constraintBottom_toTopOf="@id/imageView"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent" />
+
+
+        <View
+            android:id="@+id/viewSkyBlue"
+            android:layout_width="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="@dimen/dimen_10dp"
+            android:background="@color/bright_sky_color"
+            app:layout_constraintBottom_toTopOf="@id/viewDarkBlue"
+            tools:layout_editor_absoluteX="@dimen/dimen_neg_16dp" />
+
+        <View
+            android:id="@+id/viewDarkBlue"
+            android:layout_width="0dp"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="@dimen/dimen_10dp"
+            android:background="@color/theme_color_dark"
+            app:layout_constraintBottom_toBottomOf="parent"
+            tools:layout_editor_absoluteX="@dimen/dimen_neg_16dp" />
+
+        <easypay.appinvoke.widget.OtpEditText
+            android:id="@+id/edit_text_otp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginStart="@dimen/dimen_16dp"
+            android:layout_marginLeft="@dimen/dimen_16dp"
+            android:layout_marginTop="@dimen/dimen_14dp"
+            android:layout_marginEnd="@dimen/dimen_16dp"
+            android:layout_marginRight="@dimen/dimen_16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_weight="0.7"
+            android:cursorVisible="false"
+            android:ems="10"
+            android:fontFamily="sans-serif"
+            android:inputType="number"
+            android:maxLength="6"
+            android:maxLines="1"
+            android:textColor="@color/black_222222"
+            android:textColorHint="@color/gray_686868"
+            android:textCursorDrawable="@null"
+            android:textIsSelectable="false"
+            android:textSize="@dimen/dimen_18sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tv_enter_otp_label" />
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

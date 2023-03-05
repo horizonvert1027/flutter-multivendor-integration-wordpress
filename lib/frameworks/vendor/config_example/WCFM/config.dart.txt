@@ -1,0 +1,8 @@
+export 'config/index.dart';
+
+const serverConfig = {
+    'type': 'wcfm',
+    'url': 'https://emporio.pe/',
+    'consumerKey': 'ck_c6c43febdef81ba777d86332868abf7abb311a35',
+    'consumerSecret': 'cs_a314b51f8879d73eaff547c12b75a4b409019a7b'
+};

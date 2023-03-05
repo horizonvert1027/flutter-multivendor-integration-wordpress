@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/xml/standalone_badge_gravity_top_start.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/xml/standalone_badge_gravity_top_start.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/xml/standalone_badge.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/xml/standalone_badge.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/xml/standalone_badge_offset.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/xml/standalone_badge_offset.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/xml/standalone_badge_gravity_bottom_end.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/xml/standalone_badge_gravity_bottom_end.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/xml/standalone_badge_gravity_bottom_start.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/xml/standalone_badge_gravity_bottom_start.xml"
+    }
+]

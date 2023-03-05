@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout-v21/notification_action.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.inspireui.common_library.inspireui-merged_res-12:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.inspireui.common_library.inspireui-core-1.6.0-1:/layout-v21/notification_template_custom_big.xml"
+    }
+]

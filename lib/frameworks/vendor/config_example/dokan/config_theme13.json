@@ -1,0 +1,88 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 28.0,
+      "padding": 30.0,
+      "height": 0.2,
+      "title": "Stack Demo",
+      "isSafeArea": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "stack",
+      "height": 0.4,
+      "showBackGround": true,
+      "radius": 2.0,
+      "items": [
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/62924786-09b73580-bddb-11e9-94e1-a3bc0c00f35d.png",
+          "padding": 15.0
+        },
+        {
+          "category": 28,
+          "image": "https://user-images.githubusercontent.com/1459805/62925388-73840f00-bddc-11e9-843b-8f0024836aaf.png",
+          "padding": 15.0
+        },
+        {
+          "category": 29,
+          "image": "https://user-images.githubusercontent.com/1459805/62924787-09b73580-bddb-11e9-9834-4be535cea5f5.png",
+          "padding": 15.0
+        }
+      ]
+    },
+    {
+      "name": "Woman Collections",
+      "image": "",
+      "layout": "threeColumn",
+      "category": 313
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

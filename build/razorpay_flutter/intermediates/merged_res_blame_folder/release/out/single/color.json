@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/color/wallet_secondary_text_holo_dark.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-wallet-18.1.3-0:/color/wallet_secondary_text_holo_dark.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/color/common_google_signin_btn_tint.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-base-17.5.0-9:/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/color/common_google_signin_btn_text_dark.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-base-17.5.0-9:/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/color/wallet_primary_text_holo_light.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-wallet-18.1.3-0:/color/wallet_primary_text_holo_light.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/color/common_google_signin_btn_text_light.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-base-17.5.0-9:/color/common_google_signin_btn_text_light.xml"
+    }
+]

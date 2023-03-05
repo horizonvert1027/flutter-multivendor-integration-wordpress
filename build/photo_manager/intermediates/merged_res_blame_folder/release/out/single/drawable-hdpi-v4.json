@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.fluttercandies.photo_manager-merged_res-15:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "com.fluttercandies.photo_manager-core-1.6.0-5:/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "com.fluttercandies.photo_manager-merged_res-15:/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "com.fluttercandies.photo_manager-core-1.6.0-5:/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "com.fluttercandies.photo_manager-merged_res-15:/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "com.fluttercandies.photo_manager-core-1.6.0-5:/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "com.fluttercandies.photo_manager-merged_res-15:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "com.fluttercandies.photo_manager-core-1.6.0-5:/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "com.fluttercandies.photo_manager-merged_res-15:/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "com.fluttercandies.photo_manager-core-1.6.0-5:/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

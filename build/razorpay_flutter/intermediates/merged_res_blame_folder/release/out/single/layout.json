@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/rzp_loader.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/layout/rzp_loader.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/notification_template_part_chronometer.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/notification_template_icon_group.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/custom_dialog.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/notification_action_tombstone.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/notification_action.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/single_item.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/layout/single_item.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/toast_custom.xml",
+        "source": "com.razorpay.razorpay_flutter-packaged_res-12:/layout/toast_custom.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/notification_template_part_time.xml",
+        "source": "com.razorpay.razorpay_flutter-core-1.6.0-5:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/sdk_integration_status.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/layout/sdk_integration_status.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/wallet_test_layout.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-play-services-wallet-18.1.3-0:/layout/wallet_test_layout.xml"
+    },
+    {
+        "merged": "com.razorpay.razorpay_flutter-merged_res-18:/layout/rzp_magic_base.xml",
+        "source": "com.razorpay.razorpay_flutter-jetified-checkout-1.6.29-3:/layout/rzp_magic_base.xml"
+    }
+]

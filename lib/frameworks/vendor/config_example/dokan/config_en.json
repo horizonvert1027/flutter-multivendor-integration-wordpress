@@ -1,0 +1,232 @@
+{
+    "Background": {
+        "height": 0.3,
+        "color": "#026DCD",
+        "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/5dc3b80702a7994eec2ea5d0/632bc1fa553a0286267606b28ff5f7a2/woman.jpg"
+    },
+    "HorizonLayout": [
+        {
+            "layout": "logo",
+            "showMenu": true,
+            "showSearch": true,
+            "showLogo": true
+        },
+        {
+            "layout": "header_text",
+            "fontSize": 23.0,
+            "height": 0.11,
+            "padding": 30.0,
+            "rotate": [
+                "FluxStore MV",
+                "New Arrival",
+                "Cyber Monday Sale"
+            ],
+            "type": "fade"
+        },
+        {
+            "layout": "header_search",
+            "text": "Search for a product"
+        },
+        {
+            "layout": "bannerImage",
+            "isSlider": true,
+            "autoPlay": false,
+            "showNumber": false,
+            "design": "default",
+            "showBackGround": true,
+            "radius": 2.0,
+            "height": 0.15,
+            "items": [
+                {
+                    "category": 313,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/1bf47a828eb5741c616ce6e9d7a9b45c/background3.jpg",
+                    "padding": 15.0
+                },
+                {
+                    "category": 313,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/48633db8dd93f7e44f397119a24428e9/background6.jpg",
+                    "padding": 15.0
+                },
+                {
+                    "category": 313,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/8c242df41a73e0d73a97ac2c99b2339b/background5.jpg",
+                    "padding": 15.0
+                }
+            ]
+        },
+        {
+            "layout": "category",
+            "type": "icon",
+            "wrap": true,
+            "size": 1.2,
+            "radius": 50.0,
+            "noBackground": true,
+            "columns": 4,
+            "padding": 10.0,
+            "items": [
+                {
+                    "category": 491,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/773979383e838384105b31989b60782c/cate1.png",
+                    "colors": [
+                        "#3CC2BF",
+                        "#3CC2BF"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 313,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/d931a0ff4be52bc2b65abbefaf92a883/cate2.png",
+                    "colors": [
+                        "#3E6AB5",
+                        "#3E6AB5"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 500,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/f4ddca36c3845290bba2210970be8b29/cate3.png",
+                    "colors": [
+                        "#53A2CC",
+                        "#53A2CC"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 512,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/e48ec367fe04c1bc5f948aa22b191bc7/cate4.png",
+                    "colors": [
+                        "#53688A",
+                        "#53688A"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 501,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/3ed738e310d12461b4ce4b36e5e910c8/cate5.png",
+                    "colors": [
+                        "#43506A",
+                        "#43506A"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 276,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/9b3e064df36edf54624c42585eb0df18/cate6.png",
+                    "colors": [
+                        "#12B58C",
+                        "#12B58C"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 538,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/c02c789409770ec434f0b5473c775641/cate7.png",
+                    "colors": [
+                        "#3CC2BF",
+                        "#3CC2BF"
+                    ],
+                    "originalColor": true
+                },
+                {
+                    "category": 536,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5d29325d2000ef2fad36345f/60a62a9bca5053572a669dee/ba48f0d7dedce9496627f204aaa7c6fc/cate8.png",
+                    "colors": [
+                        "#3E6AB5",
+                        "#3E6AB5"
+                    ],
+                    "originalColor": true
+                }
+            ]
+        },
+        {"layout": "brand", "name": "Top Brand Choices", "isBrandNameShown": true , "isLogoCornerRounded":  true},
+        {
+            "name": "Recent View",
+            "layout": "recentView"
+        },
+        {
+            "name": "Latest Products",
+            "image": "",
+            "layout": "twoColumn",
+            "isSnapping": true,
+            "category": 276
+        },
+        {
+            "layout": "bannerImage",
+            "items": [
+                {
+                    "category": 537,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x800/255ec2cd585923a96b2c722833f85319/background1.jpg",
+                    "padding": 5.0
+                },
+                {
+                    "category": 538,
+                    "image": "https://trello-attachments.s3.amazonaws.com/5dc3cfb1d013e9228256a65f/1200x801/e40b5ebaad35cbb306eef65bcf8953e0/background2.jpg",
+                    "padding": 5.0,
+                    "featured": true
+                }
+            ]
+        },
+        {
+            "name": "Our Blog Posts",
+            "layout": "blog"
+        },
+        {
+            "name": "New Collections",
+            "layout": "staggered",
+            "limit": 20,
+            "category": 473
+        }
+    ],
+    "Setting": {
+        "MainColor": "#7868D8",
+        "FontFamily": "Roboto",
+        "ProductListLayout": "list",
+        "StickyHeader": false
+    },
+    "TabBar": [
+        {
+            "layout": "home",
+            "icon": "home",
+            "pos": 100,
+            "fontFamily": "CupertinoIcons",
+            "key": "p1q235ba14"
+        },
+        {
+            "pos": 200,
+            "layout": "category",
+            "icon": "rectangle_grid_1x2",
+            "fontFamily": "CupertinoIcons",
+            "categoryLayout": "card",
+            "key": "hwu0rkrizt"
+        },
+        {
+            "key": "2reihs4qzc",
+            "icon": "search",
+            "layout": "search",
+            "fontFamily": "CupertinoIcons",
+            "pos": 300,
+            "size": 24
+        },
+        {
+            "pos": 400,
+            "icon": "bag",
+            "layout": "cart",
+            "categoryLayout": "cart",
+            "key": "a2xts0oou6",
+            "fontFamily": "CupertinoIcons"
+        },
+        {
+            "layout": "profile",
+            "fontFamily": "CupertinoIcons",
+            "pos": 500,
+            "key": "69jw5yx12d",
+            "icon": "person"
+        }
+    ],
+    "searchSuggestion": [
+        "man",
+        "dress",
+        "Stitch",
+        "ma"
+    ]
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/layout-v21/notification_action.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-core-1.6.0-14:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-core-1.6.0-14:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-core-1.6.0-14:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-core-1.6.0-14:/layout-v21/notification_template_icon_group.xml"
+    }
+]

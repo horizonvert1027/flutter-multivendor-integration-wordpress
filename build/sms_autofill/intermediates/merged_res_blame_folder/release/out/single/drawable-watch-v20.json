@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-19.2.0-1:/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-19.2.0-1:/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "com.jaumard.smsautofill.sms_autofill-merged_res-13:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "com.jaumard.smsautofill.sms_autofill-jetified-play-services-auth-19.2.0-1:/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    }
+]

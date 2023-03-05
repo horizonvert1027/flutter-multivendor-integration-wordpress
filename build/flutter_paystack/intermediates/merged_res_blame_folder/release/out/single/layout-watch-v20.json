@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-appcompat-1.2.0-4:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    }
+]

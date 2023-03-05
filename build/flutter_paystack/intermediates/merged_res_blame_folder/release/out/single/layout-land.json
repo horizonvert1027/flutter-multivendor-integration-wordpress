@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/layout-land/material_timepicker.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/layout-land/material_timepicker.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/layout-land/mtrl_picker_header_dialog.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/layout-land/mtrl_picker_header_dialog.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/layout-land/material_clock_period_toggle_land.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/layout-land/material_clock_period_toggle_land.xml"
+    }
+]

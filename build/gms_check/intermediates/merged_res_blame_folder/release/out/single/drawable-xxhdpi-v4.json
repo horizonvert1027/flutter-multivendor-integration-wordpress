@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/googleg_disabled_color_18.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/common_google_signin_btn_text_light_normal_background.9.png"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "com.github.simonpham.gms_check-merged_res-12:/drawable-xxhdpi-v4/googleg_standard_color_18.png",
+        "source": "com.github.simonpham.gms_check-jetified-play-services-base-18.1.0-1:/drawable-xxhdpi-v4/googleg_standard_color_18.png"
+    }
+]

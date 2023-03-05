@@ -1,0 +1,89 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "header_text",
+      "fontSize": 25.0,
+      "title": "If  you can dream it, \nYou can do it",
+      "padding": 30.0,
+      "showSearch": true,
+      "isSafeArea": true
+    },
+    {
+      "layout": "bannerImage",
+      "isSlider": true,
+      "design": "swiper",
+      "radius": 20.0,
+      "items": [
+        {
+          "category": 25,
+          "image": "https://user-images.githubusercontent.com/1459805/62834035-2899b880-bc71-11e9-9ed8-4ce1790e0460.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 23,
+          "image": "https://user-images.githubusercontent.com/1459805/62834034-2899b880-bc71-11e9-956b-64e6d0c35d46.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 26,
+          "image": "https://user-images.githubusercontent.com/1459805/62834031-28012200-bc71-11e9-9980-f090df262343.jpg",
+          "padding": 0.0
+        },
+        {
+          "category": 27,
+          "image": "https://user-images.githubusercontent.com/1459805/62834036-29324f00-bc71-11e9-9262-af0b8ceeba87.jpg",
+          "padding": 0.0
+        }
+      ]
+    },
+    {
+      "name": "Woman Collections",
+      "layout": "simpleVerticalListItems"
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

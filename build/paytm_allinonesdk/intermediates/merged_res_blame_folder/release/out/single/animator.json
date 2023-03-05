@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_open_exit.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_open_exit.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_fade_exit.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_fade_exit.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_close_exit.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_close_exit.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_close_enter.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_close_enter.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_fade_enter.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_fade_enter.xml"
+    },
+    {
+        "merged": "com.paytm.allinonesdk.paytm_allinonesdk-merged_res-25:/animator/fragment_open_enter.xml",
+        "source": "com.paytm.allinonesdk.paytm_allinonesdk-fragment-1.3.6-4:/animator/fragment_open_enter.xml"
+    }
+]

@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/ll_nb_root_container"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="bottom"
+    android:background="@color/back_net_banking"
+    android:orientation="vertical"
+    android:visibility="visible">
+
+    <LinearLayout
+        android:id="@+id/ll_nb_login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/ll_nb_user_id_Selector"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:padding="@dimen/dimen_4dp"
+            android:visibility="gone"
+            android:weightSum="3">
+
+            <TextView
+                android:id="@+id/tv_user_id_one"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_horizontal|center_vertical"
+                android:layout_margin="@dimen/dimen_4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_saved_id"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:paddingTop="@dimen/dimen_4dp"
+                android:paddingBottom="@dimen/dimen_4dp"
+
+                android:saveEnabled="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_12sp"
+                android:textStyle="bold"
+                android:visibility="gone"
+                tools:text="ABC1234" />
+
+            <TextView
+                android:id="@+id/tv_user_id_two"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/dimen_4dp"
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_saved_id"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dimen_0dp"
+                android:paddingTop="@dimen/dimen_4dp"
+                android:paddingRight="@dimen/dimen_0dp"
+
+                android:paddingBottom="@dimen/dimen_4dp"
+                android:saveEnabled="true"
+
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_12sp"
+                android:textStyle="bold"
+                android:visibility="gone"
+                tools:text="ABC1234" />
+
+            <TextView
+                android:id="@+id/tv_user_id_three"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_margin="@dimen/dimen_4dp"
+
+                android:layout_weight="1"
+                android:background="@drawable/bg_btn_saved_id"
+                android:fontFamily="sans-serif"
+                android:gravity="center"
+                android:paddingLeft="@dimen/dimen_0dp"
+                android:paddingTop="@dimen/dimen_4dp"
+                android:paddingRight="@dimen/dimen_0dp"
+                android:paddingBottom="@dimen/dimen_4dp"
+                android:saveEnabled="true"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_12sp"
+                android:textStyle="bold"
+                android:visibility="gone"
+                tools:text="ABC1234" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/et_nb_root"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+
+
+            <EditText
+                android:id="@+id/et_nb_password"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".7"
+                android:background="@color/white_smoke"
+                android:clickable="false"
+                android:enabled="false"
+                android:fontFamily="sans-serif"
+                android:gravity="left"
+                android:hint="@string/easypay_password"
+                android:inputType="textWebPassword|textCapSentences|textMultiLine"
+                android:padding="16dp"
+                android:saveEnabled="true"
+                android:textColor="@color/gray_444444"
+                android:textColorHint="@color/white_b8c2cb"
+                android:textSize="@dimen/dimen_15sp"
+                android:textStyle="normal"
+                android:visibility="gone" />
+
+            <EditText
+                android:id="@+id/et_nb_userIdCustomerId"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".85"
+                android:background="@color/white_smoke"
+                android:clickable="false"
+                android:enabled="false"
+                android:fontFamily="sans-serif"
+                android:gravity="left"
+                android:hint="Enter User/ Customer Id"
+                android:inputType=""
+                android:padding="@dimen/dimen_16dp"
+                android:saveEnabled="true"
+                android:textColor="#444444"
+                android:textColorHint="#b8c2cb"
+                android:textSize="@dimen/dimen_15sp"
+                android:textStyle="normal"
+                android:visibility="visible" />
+
+            <ImageButton
+                android:id="@+id/nb_image_bt_previous"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".15"
+                android:background="@color/white_eceff1"
+                android:visibility="gone"
+                app:srcCompat="@drawable/ic_collapse_copy_3" />
+
+            <ImageButton
+                android:id="@+id/nb_image_bt_next"
+                android:layout_width="@dimen/dimen_0dp"
+                android:layout_height="match_parent"
+                android:layout_weight=".15"
+                android:background="@color/submit_easy_pay"
+                android:visibility="visible"
+                app:srcCompat="@drawable/ic_collapse_copy_2" />
+            <Button
+                android:id="@+id/nb_bt_submit"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:background="@color/submit_easy_pay"
+                android:fontFamily="sans-serif"
+                android:gravity="center_horizontal|center_vertical"
+                android:text="@string/easypay_submit"
+                android:textColor="@color/white"
+                android:textSize="@dimen/dimen_15sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:orientation="horizontal">
+
+            <CheckBox
+                android:id="@+id/cb_nb_userId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_8dp"
+                android:layout_marginLeft="@dimen/dimen_8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:button="@null"
+                android:checked="true"
+                android:drawablePadding="@dimen/dimen_6dp"
+                android:fontFamily="sans-serif"
+                android:padding="@dimen/dimen_8dp"
+                android:text="@string/rember"
+                android:textColor="@color/gray_666666"
+                android:textSize="@dimen/dimen_12sp"
+                android:textStyle="normal"
+                tools:visibility="visible" />
+
+            <TextView
+                android:id="@+id/img_pwd_show"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="start|center_vertical|center_horizontal"
+                android:layout_marginStart="@dimen/dimen_8dp"
+                android:layout_marginLeft="@dimen/dimen_8dp"
+                android:layout_weight="1"
+                android:background="@color/white"
+                android:drawablePadding="@dimen/dimen_6dp"
+
+                android:fontFamily="sans-serif"
+                android:gravity="center|left"
+                android:paddingTop="@dimen/dimen_8dp"
+                android:paddingRight="@dimen/dimen_8dp"
+                android:paddingBottom="@dimen/dimen_8dp"
+                android:text="@string/show"
+                android:textColor="@color/gray_666666"
+                android:textSize="@dimen/dimen_12sp"
+                android:textStyle="normal"
+                android:visibility="gone"
+                tools:visibility="visible" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/dimen_1dp"
+            android:layout_margin="@dimen/dimen_0dp"
+            android:background="@color/back_net_banking" />
+    </LinearLayout>
+
+
+</RelativeLayout>

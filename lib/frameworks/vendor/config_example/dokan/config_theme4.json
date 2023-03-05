@@ -1,0 +1,141 @@
+{
+  "HorizonLayout": [
+    {
+      "layout": "logo",
+      "showMenu": true
+    },
+    {
+      "layout": "header_text",
+      "fontSize": 22.0,
+      "title": "Our Biggest Hits"
+    },
+    {
+      "layout": "category",
+      "type": "icon",
+      "wrap": true,
+      "size": 1.2,
+      "radius": 50.0,
+      "background": "#FFFFFF",
+      "columns": 4,
+      "shadow": 0.0,
+      "padding": 10.0,
+      "items": [
+        {
+          "category": 23,
+          "image": "assets/icons/categories/ic_home.png",
+          "colors": [
+            "#12B58C",
+            "#12B58C"
+          ]
+        },
+        {
+          "category": 25,
+          "image": "assets/icons/categories/ic_picture.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 26,
+          "image": "assets/icons/categories/ic_glasses.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 27,
+          "image": "assets/icons/categories/ic_couch.png",
+          "colors": [
+            "#43506A",
+            "#43506A"
+          ]
+        },
+        {
+          "category": 28,
+          "image": "assets/icons/categories/ic_flower.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 29,
+          "image": "assets/icons/categories/ic_ballon.png",
+          "colors": [
+            "#53688A",
+            "#53688A"
+          ]
+        },
+        {
+          "category": 30,
+          "image": "assets/icons/categories/ic_broom.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        },
+        {
+          "category": 18,
+          "image": "assets/icons/categories/ic_clock.png",
+          "colors": [
+            "#53A2CC",
+            "#53A2CC"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "New Collections",
+      "layout": "staggered",
+      "limit": 20,
+      "category": 29
+    }
+  ],
+  "Setting": {
+    "MainColor": "#3FC1BE",
+    "FontFamily": "Roboto",
+    "ProductListLayout": "list"
+  },
+  "TabBar": [
+    {
+      "layout": "home",
+      "icon": "home",
+      "pos": 100,
+      "fontFamily": "CupertinoIcons",
+      "key": "p1q235ba14"
+    },
+    {
+      "pos": 200,
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "categoryLayout": "card",
+      "key": "hwu0rkrizt"
+    },
+    {
+      "key": "2reihs4qzc",
+      "icon": "search",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "pos": 300,
+      "size": 24
+    },
+    {
+      "pos": 400,
+      "icon": "bag",
+      "layout": "cart",
+      "categoryLayout": "cart",
+      "key": "a2xts0oou6",
+      "fontFamily": "CupertinoIcons"
+    },
+    {
+      "layout": "profile",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "key": "69jw5yx12d",
+      "icon": "person"
+    }
+  ]
+}

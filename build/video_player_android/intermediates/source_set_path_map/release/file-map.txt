@@ -1,0 +1,14 @@
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-java-1.0.0-beta04-0 C:\Users\Admin\.gradle\caches\transforms-3\1cc0258bfe59698a235b14da598791e7\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-exoplayer-core-2.18.1-1 C:\Users\Admin\.gradle\caches\transforms-3\a0553d9f3dd1926c0ffe36d58f2d01a1\transformed\jetified-exoplayer-core-2.18.1\res
+io.flutter.plugins.videoplayer.video_player_android-core-1.7.0-2 C:\Users\Admin\.gradle\caches\transforms-3\af8148449ab5ea3ada09c56ed8d59a23\transformed\core-1.7.0\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-window-1.0.0-beta04-3 C:\Users\Admin\.gradle\caches\transforms-3\b94b2f94a3c3a147f74ee6b6b87af3a0\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.videoplayer.video_player_android-lifecycle-runtime-2.3.1-4 C:\Users\Admin\.gradle\caches\transforms-3\e8c6351c03e91f14fb944ab484676e0c\transformed\lifecycle-runtime-2.3.1\res
+io.flutter.plugins.videoplayer.video_player_android-jetified-annotation-experimental-1.1.0-5 C:\Users\Admin\.gradle\caches\transforms-3\f166291a00c286ffcedce5652110fa41\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.videoplayer.video_player_android-main-6 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.3.10\android\src\main\res
+io.flutter.plugins.videoplayer.video_player_android-release-7 C:\Users\Admin\AppData\Local\Pub\Cache\hosted\pub.dev\video_player_android-2.3.10\android\src\release\res
+io.flutter.plugins.videoplayer.video_player_android-pngs-8 E:\workspace\hector\multivendor\build\video_player_android\generated\res\pngs\release
+io.flutter.plugins.videoplayer.video_player_android-resValues-9 E:\workspace\hector\multivendor\build\video_player_android\generated\res\resValues\release
+io.flutter.plugins.videoplayer.video_player_android-rs-10 E:\workspace\hector\multivendor\build\video_player_android\generated\res\rs\release
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-11 E:\workspace\hector\multivendor\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.videoplayer.video_player_android-mergeReleaseResources-12 E:\workspace\hector\multivendor\build\video_player_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.videoplayer.video_player_android-merged_res-13 E:\workspace\hector\multivendor\build\video_player_android\intermediates\merged_res\release

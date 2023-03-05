@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.vanethos.notification_permissions-merged_res-10:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.vanethos.notification_permissions-core-1.6.0-1:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.vanethos.notification_permissions-merged_res-10:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.vanethos.notification_permissions-core-1.6.0-1:/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "com.vanethos.notification_permissions-merged_res-10:/layout-v21/notification_action.xml",
+        "source": "com.vanethos.notification_permissions-core-1.6.0-1:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.vanethos.notification_permissions-merged_res-10:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.vanethos.notification_permissions-core-1.6.0-1:/layout-v21/notification_action_tombstone.xml"
+    }
+]

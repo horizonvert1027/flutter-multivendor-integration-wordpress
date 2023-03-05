@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_primary_text_disable_only.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_hint_foreground.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_hint_foreground.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_dark_highlighted_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_dark_highlighted_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_dark_primary_text_disable_only.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_default_color_secondary_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_dark_default_color_primary_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_dark_default_color_primary_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_default_color_primary_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_default_color_primary_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_dark_default_color_secondary_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_highlighted_text.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_highlighted_text.xml"
+    },
+    {
+        "merged": "co.paystack.flutterpaystack.flutter_paystack-merged_res-21:/color-v31/m3_dynamic_dark_hint_foreground.xml",
+        "source": "co.paystack.flutterpaystack.flutter_paystack-material-1.6.0-0:/color-v31/m3_dynamic_dark_hint_foreground.xml"
+    }
+]
